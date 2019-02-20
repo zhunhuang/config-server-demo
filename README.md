@@ -5,7 +5,7 @@
 
 ## 启动
 
-IDE运行，ConfigServerGitApplication的main方法即可。
+spring boot 工程，入口类：src/main/java/com/example/configservergit/ConfigServerGitApplication启动。
 
 ## 本地调试
 启动后，本地访问[http://localhost:1200/config-client/dev/master](http://localhost:1200/config-client/dev/master)
